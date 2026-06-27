@@ -1,0 +1,135 @@
+[2026-06-27T19:33:37.974+0000] {processor.py:161} INFO - Started process (PID=4059) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:33:37.976+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:33:37.978+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:33:37.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:33:38.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:33:38.735+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.779 seconds
+[2026-06-27T19:34:08.880+0000] {processor.py:161} INFO - Started process (PID=4137) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:08.883+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:34:08.886+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:08.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:09.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:09.341+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.473 seconds
+[2026-06-27T19:34:39.644+0000] {processor.py:161} INFO - Started process (PID=4216) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:39.646+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:34:39.649+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:39.648+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:40.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:34:40.059+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.424 seconds
+[2026-06-27T19:35:10.915+0000] {processor.py:161} INFO - Started process (PID=4298) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:10.916+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:35:10.919+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:10.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:11.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:11.351+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.448 seconds
+[2026-06-27T19:35:42.041+0000] {processor.py:161} INFO - Started process (PID=4376) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:42.043+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:35:42.045+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:42.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:42.345+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:35:42.367+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.335 seconds
+[2026-06-27T19:36:13.313+0000] {processor.py:161} INFO - Started process (PID=4453) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:13.315+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:36:13.317+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:13.317+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:13.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:13.699+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.395 seconds
+[2026-06-27T19:36:44.493+0000] {processor.py:161} INFO - Started process (PID=4538) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:44.495+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:36:44.498+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:44.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:45.322+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:36:45.379+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.901 seconds
+[2026-06-27T19:37:16.455+0000] {processor.py:161} INFO - Started process (PID=4616) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:16.457+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:37:16.474+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:16.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:17.259+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:17.298+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.867 seconds
+[2026-06-27T19:37:48.134+0000] {processor.py:161} INFO - Started process (PID=4694) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:48.136+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:37:48.139+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:48.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:48.601+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:37:48.653+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.537 seconds
+[2026-06-27T19:38:18.827+0000] {processor.py:161} INFO - Started process (PID=4772) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:18.829+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:38:18.834+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:18.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:19.171+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:19.193+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.375 seconds
+[2026-06-27T19:38:49.401+0000] {processor.py:161} INFO - Started process (PID=4849) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:49.403+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:38:49.406+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:49.406+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:49.784+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:38:49.806+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.414 seconds
+[2026-06-27T19:39:20.681+0000] {processor.py:161} INFO - Started process (PID=4927) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:20.691+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:39:20.694+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:20.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:21.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:21.378+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.717 seconds
+[2026-06-27T19:39:52.076+0000] {processor.py:161} INFO - Started process (PID=5012) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:52.077+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:39:52.079+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:52.079+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:52.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:39:52.716+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.656 seconds
+[2026-06-27T19:40:23.775+0000] {processor.py:161} INFO - Started process (PID=5090) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:23.776+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:40:23.779+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:23.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:24.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:24.137+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.374 seconds
+[2026-06-27T19:40:54.641+0000] {processor.py:161} INFO - Started process (PID=5168) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:54.643+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:40:54.653+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:54.652+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:55.172+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:40:55.199+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.568 seconds
+[2026-06-27T19:41:25.423+0000] {processor.py:161} INFO - Started process (PID=5246) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:25.425+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:41:25.427+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:25.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:25.851+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:25.877+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.464 seconds
+[2026-06-27T19:41:56.775+0000] {processor.py:161} INFO - Started process (PID=5332) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:56.776+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:41:56.779+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:56.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:57.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:41:57.396+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.640 seconds
+[2026-06-27T19:42:27.608+0000] {processor.py:161} INFO - Started process (PID=5410) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:27.610+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:42:27.612+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:27.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:27.959+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:27.982+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.386 seconds
+[2026-06-27T19:42:58.658+0000] {processor.py:161} INFO - Started process (PID=5488) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:58.660+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:42:58.662+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:58.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:59.172+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:42:59.202+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.554 seconds
+[2026-06-27T19:43:29.485+0000] {processor.py:161} INFO - Started process (PID=5566) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:43:29.487+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:43:29.489+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:43:29.489+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:43:29.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:43:29.826+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.351 seconds
+[2026-06-27T19:44:00.181+0000] {processor.py:161} INFO - Started process (PID=5651) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:00.182+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:44:00.193+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:00.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:00.799+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:00.856+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.694 seconds
+[2026-06-27T19:44:31.835+0000] {processor.py:161} INFO - Started process (PID=5729) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:31.836+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:44:31.853+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:31.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:32.598+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:44:32.678+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.867 seconds
+[2026-06-27T19:45:03.474+0000] {processor.py:161} INFO - Started process (PID=5807) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:03.480+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:45:03.496+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:03.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:04.251+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:04.312+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.875 seconds
+[2026-06-27T19:45:34.792+0000] {processor.py:161} INFO - Started process (PID=5885) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:34.794+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:45:34.796+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:34.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:35.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:45:35.199+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.423 seconds
+[2026-06-27T19:46:05.287+0000] {processor.py:161} INFO - Started process (PID=5963) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:05.289+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:46:05.292+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:05.291+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:05.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:05.740+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.463 seconds
+[2026-06-27T19:46:36.014+0000] {processor.py:161} INFO - Started process (PID=6041) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:36.015+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:46:36.018+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:36.017+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:36.355+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:46:36.377+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.395 seconds
+[2026-06-27T19:47:07.438+0000] {processor.py:161} INFO - Started process (PID=6119) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:47:07.439+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py for tasks to queue
+[2026-06-27T19:47:07.442+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:47:07.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:47:07.963+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py
+[2026-06-27T19:47:07.996+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_csv.py took 0.573 seconds

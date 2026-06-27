@@ -1,0 +1,135 @@
+[2026-06-27T19:33:38.839+0000] {processor.py:161} INFO - Started process (PID=4063) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:33:38.841+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:33:38.852+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:33:38.851+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:33:39.456+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:33:39.496+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.679 seconds
+[2026-06-27T19:34:09.652+0000] {processor.py:161} INFO - Started process (PID=4141) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:09.654+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:34:09.656+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:09.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:09.983+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:10.004+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.361 seconds
+[2026-06-27T19:34:40.105+0000] {processor.py:161} INFO - Started process (PID=4219) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:40.107+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:34:40.109+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:40.109+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:40.436+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:34:40.459+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.364 seconds
+[2026-06-27T19:35:11.483+0000] {processor.py:161} INFO - Started process (PID=4302) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:11.493+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:35:11.496+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:11.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:12.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:12.264+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.792 seconds
+[2026-06-27T19:35:42.464+0000] {processor.py:161} INFO - Started process (PID=4380) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:42.466+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:35:42.468+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:42.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:42.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:35:42.842+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.388 seconds
+[2026-06-27T19:36:13.754+0000] {processor.py:161} INFO - Started process (PID=4457) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:13.755+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:36:13.759+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:13.759+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:14.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:14.167+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.426 seconds
+[2026-06-27T19:36:45.580+0000] {processor.py:161} INFO - Started process (PID=4542) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:45.582+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:36:45.593+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:45.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:46.441+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:36:46.499+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.941 seconds
+[2026-06-27T19:37:17.398+0000] {processor.py:161} INFO - Started process (PID=4621) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:17.399+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:37:17.402+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:17.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:18.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:18.237+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.856 seconds
+[2026-06-27T19:37:48.722+0000] {processor.py:161} INFO - Started process (PID=4698) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:48.723+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:37:48.726+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:48.725+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:49.143+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:37:49.172+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.462 seconds
+[2026-06-27T19:38:19.285+0000] {processor.py:161} INFO - Started process (PID=4776) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:19.287+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:38:19.289+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:19.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:19.736+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:19.766+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.492 seconds
+[2026-06-27T19:38:49.867+0000] {processor.py:161} INFO - Started process (PID=4853) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:49.868+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:38:49.872+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:49.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:50.238+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:38:50.281+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.424 seconds
+[2026-06-27T19:39:21.482+0000] {processor.py:161} INFO - Started process (PID=4931) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:21.492+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:39:21.494+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:21.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:22.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:22.298+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.839 seconds
+[2026-06-27T19:39:53.154+0000] {processor.py:161} INFO - Started process (PID=5017) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:53.156+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:39:53.158+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:53.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:53.655+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:39:53.694+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.557 seconds
+[2026-06-27T19:40:24.416+0000] {processor.py:161} INFO - Started process (PID=5096) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:24.417+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:40:24.420+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:24.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:24.770+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:24.794+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.387 seconds
+[2026-06-27T19:40:55.860+0000] {processor.py:161} INFO - Started process (PID=5174) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:55.861+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:40:55.872+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:55.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:56.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:40:56.395+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.544 seconds
+[2026-06-27T19:41:27.254+0000] {processor.py:161} INFO - Started process (PID=5260) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:27.256+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:41:27.259+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:27.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:27.939+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:27.978+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.740 seconds
+[2026-06-27T19:41:58.057+0000] {processor.py:161} INFO - Started process (PID=5339) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:58.059+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:41:58.062+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:58.061+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:58.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:41:58.717+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.680 seconds
+[2026-06-27T19:42:28.859+0000] {processor.py:161} INFO - Started process (PID=5418) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:42:28.871+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:42:28.874+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:28.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:42:29.481+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:42:29.521+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.675 seconds
+[2026-06-27T19:42:59.826+0000] {processor.py:161} INFO - Started process (PID=5494) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:42:59.827+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:42:59.830+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:59.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:43:00.267+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:43:00.296+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.481 seconds
+[2026-06-27T19:43:30.422+0000] {processor.py:161} INFO - Started process (PID=5572) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:43:30.432+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:43:30.435+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:43:30.434+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:43:30.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:43:30.841+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.429 seconds
+[2026-06-27T19:44:01.457+0000] {processor.py:161} INFO - Started process (PID=5658) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:01.459+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:44:01.473+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:01.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:02.132+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:02.194+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.755 seconds
+[2026-06-27T19:44:33.601+0000] {processor.py:161} INFO - Started process (PID=5736) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:33.603+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:44:33.612+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:33.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:34.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:44:34.133+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.542 seconds
+[2026-06-27T19:45:04.856+0000] {processor.py:161} INFO - Started process (PID=5813) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:04.857+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:45:04.872+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:04.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:05.637+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:05.695+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.858 seconds
+[2026-06-27T19:45:36.263+0000] {processor.py:161} INFO - Started process (PID=5890) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:36.265+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:45:36.268+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:36.267+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:36.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:45:36.624+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.370 seconds
+[2026-06-27T19:46:06.811+0000] {processor.py:161} INFO - Started process (PID=5968) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:06.813+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:46:06.815+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:06.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:07.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:07.191+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.390 seconds
+[2026-06-27T19:46:37.453+0000] {processor.py:161} INFO - Started process (PID=6046) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:37.455+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:46:37.457+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:37.457+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:37.827+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:46:37.851+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.408 seconds
+[2026-06-27T19:47:08.275+0000] {processor.py:161} INFO - Started process (PID=6125) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:47:08.277+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py for tasks to queue
+[2026-06-27T19:47:08.279+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:47:08.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:47:08.857+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py
+[2026-06-27T19:47:08.893+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_tsv.py took 0.636 seconds

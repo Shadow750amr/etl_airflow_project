@@ -1,0 +1,135 @@
+[2026-06-27T19:33:38.520+0000] {processor.py:161} INFO - Started process (PID=4061) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:33:38.521+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:33:38.532+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:33:38.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:33:39.172+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:33:39.202+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.703 seconds
+[2026-06-27T19:34:09.278+0000] {processor.py:161} INFO - Started process (PID=4139) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:09.279+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:34:09.282+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:09.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:09.587+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:09.609+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.341 seconds
+[2026-06-27T19:34:40.052+0000] {processor.py:161} INFO - Started process (PID=4218) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:40.054+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:34:40.057+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:40.056+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:40.387+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:34:40.410+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.370 seconds
+[2026-06-27T19:35:11.413+0000] {processor.py:161} INFO - Started process (PID=4301) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:11.415+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:35:11.417+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:11.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:11.998+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:12.038+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.643 seconds
+[2026-06-27T19:35:42.408+0000] {processor.py:161} INFO - Started process (PID=4379) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:42.410+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:35:42.412+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:42.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:42.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:35:42.773+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.374 seconds
+[2026-06-27T19:36:13.725+0000] {processor.py:161} INFO - Started process (PID=4456) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:13.727+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:36:13.730+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:13.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:14.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:14.094+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.378 seconds
+[2026-06-27T19:36:45.495+0000] {processor.py:161} INFO - Started process (PID=4541) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:45.497+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:36:45.501+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:45.500+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:46.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:36:46.457+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.981 seconds
+[2026-06-27T19:37:17.279+0000] {processor.py:161} INFO - Started process (PID=4619) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:17.280+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:37:17.293+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:17.293+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:18.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:18.098+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.842 seconds
+[2026-06-27T19:37:48.682+0000] {processor.py:161} INFO - Started process (PID=4697) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:48.684+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:37:48.693+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:48.692+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:49.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:37:49.093+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.422 seconds
+[2026-06-27T19:38:19.250+0000] {processor.py:161} INFO - Started process (PID=4775) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:19.252+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:38:19.255+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:19.255+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:19.719+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:19.743+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.505 seconds
+[2026-06-27T19:38:49.840+0000] {processor.py:161} INFO - Started process (PID=4852) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:49.841+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:38:49.844+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:49.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:50.176+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:38:50.200+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.371 seconds
+[2026-06-27T19:39:21.451+0000] {processor.py:161} INFO - Started process (PID=4930) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:21.453+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:39:21.455+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:21.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:22.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:22.099+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.666 seconds
+[2026-06-27T19:39:52.792+0000] {processor.py:161} INFO - Started process (PID=5015) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:52.793+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:39:52.796+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:52.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:53.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:39:53.260+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.484 seconds
+[2026-06-27T19:40:24.193+0000] {processor.py:161} INFO - Started process (PID=5093) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:24.194+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:40:24.197+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:24.196+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:24.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:24.544+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.361 seconds
+[2026-06-27T19:40:55.280+0000] {processor.py:161} INFO - Started process (PID=5171) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:55.282+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:40:55.285+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:55.284+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:55.601+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:40:55.625+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.361 seconds
+[2026-06-27T19:41:25.838+0000] {processor.py:161} INFO - Started process (PID=5249) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:25.839+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:41:25.842+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:25.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:26.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:26.194+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.368 seconds
+[2026-06-27T19:41:57.460+0000] {processor.py:161} INFO - Started process (PID=5335) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:57.461+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:41:57.464+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:57.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:57.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:41:57.938+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.493 seconds
+[2026-06-27T19:42:28.041+0000] {processor.py:161} INFO - Started process (PID=5413) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:28.043+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:42:28.046+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:28.046+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:28.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:28.369+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.347 seconds
+[2026-06-27T19:42:59.274+0000] {processor.py:161} INFO - Started process (PID=5491) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:59.275+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:42:59.278+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:59.278+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:59.603+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:42:59.628+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.373 seconds
+[2026-06-27T19:43:29.869+0000] {processor.py:161} INFO - Started process (PID=5569) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:43:29.871+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:43:29.873+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:43:29.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:43:30.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:43:30.213+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.353 seconds
+[2026-06-27T19:44:00.901+0000] {processor.py:161} INFO - Started process (PID=5654) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:00.911+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:44:00.915+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:00.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:01.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:01.451+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.572 seconds
+[2026-06-27T19:44:32.798+0000] {processor.py:161} INFO - Started process (PID=5732) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:32.801+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:44:32.814+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:32.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:33.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:44:33.540+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.766 seconds
+[2026-06-27T19:45:04.513+0000] {processor.py:161} INFO - Started process (PID=5811) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:04.514+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:45:04.517+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:04.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:05.337+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:05.415+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.939 seconds
+[2026-06-27T19:45:36.252+0000] {processor.py:161} INFO - Started process (PID=5889) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:36.254+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:45:36.256+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:36.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:36.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:45:36.585+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.343 seconds
+[2026-06-27T19:46:06.799+0000] {processor.py:161} INFO - Started process (PID=5967) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:06.800+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:46:06.803+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:06.803+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:07.176+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:07.200+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.411 seconds
+[2026-06-27T19:46:37.440+0000] {processor.py:161} INFO - Started process (PID=6045) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:37.442+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:46:37.444+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:37.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:37.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:46:37.804+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.373 seconds
+[2026-06-27T19:47:08.079+0000] {processor.py:161} INFO - Started process (PID=6123) to work on /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:47:08.081+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py for tasks to queue
+[2026-06-27T19:47:08.083+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:47:08.083+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:47:08.639+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py
+[2026-06-27T19:47:08.674+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/extract_data_from_fixed_width.py took 0.612 seconds

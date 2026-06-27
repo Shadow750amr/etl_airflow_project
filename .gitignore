@@ -1,0 +1,27 @@
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+
+# Data y staging
+
+*.tar.gz
+*.zip
+*.tgz
+
+airflow/dags/python_etl/staging/
+*.csv
+*.tsv
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+
+# Configuraciones del IDE
+.theia/
+.vscode/
+.idea/

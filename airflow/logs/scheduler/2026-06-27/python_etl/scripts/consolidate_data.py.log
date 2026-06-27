@@ -1,0 +1,135 @@
+[2026-06-27T19:33:37.553+0000] {processor.py:161} INFO - Started process (PID=4056) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:33:37.554+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:33:37.557+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:33:37.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:33:38.336+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:33:38.398+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.876 seconds
+[2026-06-27T19:34:08.777+0000] {processor.py:161} INFO - Started process (PID=4134) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:08.778+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:34:08.781+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:08.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:09.197+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:09.220+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.453 seconds
+[2026-06-27T19:34:39.548+0000] {processor.py:161} INFO - Started process (PID=4213) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:39.550+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:34:39.552+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:34:39.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:39.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:34:40.003+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.465 seconds
+[2026-06-27T19:35:10.901+0000] {processor.py:161} INFO - Started process (PID=4297) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:10.902+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:35:10.905+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:10.904+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:11.368+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:11.389+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.498 seconds
+[2026-06-27T19:35:42.034+0000] {processor.py:161} INFO - Started process (PID=4375) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:42.035+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:35:42.038+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:35:42.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:42.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:35:42.414+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.390 seconds
+[2026-06-27T19:36:13.303+0000] {processor.py:161} INFO - Started process (PID=4452) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:13.305+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:36:13.308+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:13.307+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:13.651+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:13.676+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.382 seconds
+[2026-06-27T19:36:44.480+0000] {processor.py:161} INFO - Started process (PID=4537) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:44.482+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:36:44.494+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:36:44.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:45.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:36:45.418+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.950 seconds
+[2026-06-27T19:37:16.414+0000] {processor.py:161} INFO - Started process (PID=4615) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:16.416+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:37:16.435+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:16.434+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:17.096+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:17.156+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.765 seconds
+[2026-06-27T19:37:48.112+0000] {processor.py:161} INFO - Started process (PID=4693) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:48.114+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:37:48.117+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:37:48.117+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:48.567+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:37:48.599+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.499 seconds
+[2026-06-27T19:38:18.814+0000] {processor.py:161} INFO - Started process (PID=4771) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:18.816+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:38:18.820+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:18.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:19.204+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:19.226+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.422 seconds
+[2026-06-27T19:38:49.392+0000] {processor.py:161} INFO - Started process (PID=4848) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:49.394+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:38:49.397+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:38:49.397+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:49.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:38:49.786+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.404 seconds
+[2026-06-27T19:39:20.661+0000] {processor.py:161} INFO - Started process (PID=4926) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:20.663+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:39:20.673+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:20.672+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:21.315+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:21.359+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.709 seconds
+[2026-06-27T19:39:52.062+0000] {processor.py:161} INFO - Started process (PID=5011) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:52.072+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:39:52.075+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:39:52.075+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:52.653+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:39:52.700+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.652 seconds
+[2026-06-27T19:40:23.760+0000] {processor.py:161} INFO - Started process (PID=5089) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:23.761+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:40:23.764+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:23.763+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:24.159+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:24.181+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.432 seconds
+[2026-06-27T19:40:54.603+0000] {processor.py:161} INFO - Started process (PID=5167) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:54.605+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:40:54.612+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:40:54.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:55.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:40:55.222+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.628 seconds
+[2026-06-27T19:41:25.413+0000] {processor.py:161} INFO - Started process (PID=5245) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:25.415+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:41:25.417+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:25.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:25.764+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:25.789+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.386 seconds
+[2026-06-27T19:41:56.759+0000] {processor.py:161} INFO - Started process (PID=5331) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:56.772+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:41:56.775+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:41:56.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:57.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:41:57.376+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.636 seconds
+[2026-06-27T19:42:27.595+0000] {processor.py:161} INFO - Started process (PID=5409) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:27.597+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:42:27.599+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:27.599+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:27.946+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:27.970+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.386 seconds
+[2026-06-27T19:42:58.654+0000] {processor.py:161} INFO - Started process (PID=5487) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:58.656+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:42:58.658+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:42:58.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:59.155+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:42:59.194+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.555 seconds
+[2026-06-27T19:43:29.472+0000] {processor.py:161} INFO - Started process (PID=5565) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:43:29.474+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:43:29.476+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:43:29.476+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:43:29.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:43:29.815+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.352 seconds
+[2026-06-27T19:44:00.160+0000] {processor.py:161} INFO - Started process (PID=5650) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:00.162+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:44:00.164+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:00.164+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:00.717+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:00.778+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.628 seconds
+[2026-06-27T19:44:31.817+0000] {processor.py:161} INFO - Started process (PID=5728) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:31.818+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:44:31.833+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:44:31.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:32.638+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:44:32.700+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.919 seconds
+[2026-06-27T19:45:03.434+0000] {processor.py:161} INFO - Started process (PID=5806) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:03.435+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:45:03.454+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:03.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:04.297+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:04.373+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.973 seconds
+[2026-06-27T19:45:34.774+0000] {processor.py:161} INFO - Started process (PID=5884) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:34.775+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:45:34.778+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:45:34.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:35.167+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:45:35.189+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.424 seconds
+[2026-06-27T19:46:05.275+0000] {processor.py:161} INFO - Started process (PID=5962) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:05.276+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:46:05.279+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:05.278+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:05.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:05.642+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.378 seconds
+[2026-06-27T19:46:35.979+0000] {processor.py:161} INFO - Started process (PID=6040) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:35.981+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:46:35.992+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:46:35.992+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:36.351+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:46:36.374+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.404 seconds
+[2026-06-27T19:47:07.422+0000] {processor.py:161} INFO - Started process (PID=6118) to work on /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:47:07.423+0000] {processor.py:830} INFO - Processing file /home/project/airflow/dags/python_etl/scripts/consolidate_data.py for tasks to queue
+[2026-06-27T19:47:07.432+0000] {logging_mixin.py:188} INFO - [2026-06-27T19:47:07.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:47:07.898+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/project/airflow/dags/python_etl/scripts/consolidate_data.py
+[2026-06-27T19:47:07.933+0000] {processor.py:183} INFO - Processing /home/project/airflow/dags/python_etl/scripts/consolidate_data.py took 0.521 seconds
